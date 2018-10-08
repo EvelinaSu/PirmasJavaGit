@@ -2,4 +2,4 @@ package com.company;
 
 public class KMI {
 }
-public int
+sout.system.printnl("Miau");
